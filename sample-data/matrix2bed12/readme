@@ -1,2 +1,0 @@
-perl -I ../lib/ ../scripts/perl/matrix2bed12.pl -i ../sample-data/matrix2anchorPlot/K5-highlight.m
-atrix -start 1
